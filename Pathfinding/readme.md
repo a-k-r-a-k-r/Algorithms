@@ -35,7 +35,7 @@ Every libraries used in this application is part of python' standard libraries.
 
 ### Screenshots
 * A-Star:
-![astar](https://user-images.githubusercontent.com/69766734/105030431-11f5b480-5a54-11eb-9895-ec131199d09e.png)
+![astar](https://user-images.githubusercontent.com/69766734/105027544-2fc11a80-5a50-11eb-94c7-fa305549b5f1.png)
 
 * Dijkstra:
-![dijkstra](https://user-images.githubusercontent.com/69766734/105030436-128e4b00-5a54-11eb-87fd-84eae062dab7.png)
+![dijkstra](https://user-images.githubusercontent.com/69766734/105027545-3059b100-5a50-11eb-8af1-21919ea74dd2.png)
